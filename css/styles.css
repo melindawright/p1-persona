@@ -1,0 +1,14 @@
+body{
+	background: rgb(206, 191, 191);
+}
+div{
+	text-align: center;
+}
+img{
+	margin-top: 2em;
+	height: 60%;
+	width: 60%;
+	border: solid 5px white;
+	border-radius: 15px;
+
+}
